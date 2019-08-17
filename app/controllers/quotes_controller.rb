@@ -21,3 +21,4 @@ class QuotesController < ApplicationController
   end
 
 end
+ 
